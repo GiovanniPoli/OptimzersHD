@@ -7,7 +7,7 @@
   
   Link to the original author's github: [link github](https://github.com/gbaydin/hypergradient-descent)
   
-# Link utili
+# Externals links
 
 * Tensorflow guide: (https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Optimizer#creating_a_custom_optimizer_2)
 * Online example: (https://towardsdatascience.com/custom-optimizer-in-tensorflow-d5b41f75644a)
