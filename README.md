@@ -1,6 +1,8 @@
 # Optimzers HD
   University project on the optimization of neural networks through hypergradient based algorithms. 
-  
+
+![alt text](https://github.com/GiovanniPoli/OptimzersHD/blob/master/Plots/Performance_comparison/FullConnectedNN.png?raw=true)
+ 
   The original paper is from Atılım Güneş Baydin, Robert Cornish, David Martı́nez Rubio, Mark Schmidt, and Frank Wood (2018). Online learning rate adaptation with hypergradient descent. 
   
   Link to the original paper: [link](https://openreview.net/pdf?id=BkrsAzWAb)
