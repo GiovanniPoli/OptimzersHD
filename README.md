@@ -2,7 +2,8 @@
   University project on the optimization of neural networks through hypergradient based algorithms. 
 
 ![alt text](https://github.com/GiovanniPoli/OptimzersHD/blob/master/Plots/Performance_comparison/FullConnectedNN.png?raw=true)
-*comparison between algorithms on a fully connected neural network*
+
+*comparison between algorithms on a fully connected neural network (MINST dataset)*
  
   The original paper is from Atılım Güneş Baydin, Robert Cornish, David Martı́nez Rubio, Mark Schmidt, and Frank Wood (2018). Online learning rate adaptation with hypergradient descent. 
   
