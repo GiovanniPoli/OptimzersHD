@@ -406,10 +406,10 @@ class Adam_HD(Optimizer):
         return self._apply_dense(grad, handle)
     
   def _resource_apply_sparse(self, grad, handle):
-        raise NotImplementedError("Non è implementato sono pigro")
+        raise NotImplementedError("This optimizer is not implemented for sparse gradient")
 
   def _apply_sparse(self, grad, var):
-        raise NotImplementedError("Non è implementato sono pigro")
+        raise NotImplementedError("This optimizer is not implemented for sparse gradient")
 
 class Adam_HD_Mult(Optimizer):
   def __init__(self,
@@ -782,7 +782,7 @@ class SGDN_HD_No_Glob(Optimizer):
         return self._apply_dense(grad, handle)
     
   def _resource_apply_sparse(self, grad, handle):
-        raise NotImplementedError("Non è implementato sono pigro")
+        raise NotImplementedError("This optimizer is not implemented for sparse gradient")
 
   def _apply_sparse(self, grad, var):
-        raise NotImplementedError("Non è implementato sono pigro")
+        raise NotImplementedError("This optimizer is not implemented for sparse gradient")
